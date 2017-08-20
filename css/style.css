@@ -229,3 +229,7 @@ form button:hover {
             transform: translateY(-700px) rotate(600deg);
   }
 }
+
+.recuperar{
+  margin-top: 15px;
+}
