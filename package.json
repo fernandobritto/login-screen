@@ -1,0 +1,11 @@
+{
+  "name": "login-screen",
+  "version": "1.2.0",
+  "description": "Login Screen ",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {}
+}
